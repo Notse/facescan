@@ -64,7 +64,7 @@ class SignIn extends React.Component  {
                     <h2  >Welcome To FaceScan</h2>
                     <p>FaceScan is a Face recoginition App  using Face Detection Api</p>
                     <p>First time visit?  Click On Register</p>
-                    <p>Made By <a className=" white" style={{color:"#00bfa5"}} href="https://github.com/notse">N.Notse</a></p>
+                    <p>Made By <a className=" white" style={{color:"#00bfa5"}} href="https://github.com/notse">Nikhil Notse</a></p>
                     
                 </div>
             </div>

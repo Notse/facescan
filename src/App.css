@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+  
+  
+}
+
+.flexs {
+  text-align:center;
+}
+
+input {
+  color: white;
+  outline: none;
+}
+
+
+.cssBorder{
+  border-top:none;
+  border-left:none;
+  border-right:none;
+  border-bottom: solid white;
+  border-width: 1px;
+}
+
+.cssSignin {
+  border:chartreuse;
+  border-width: 2px;
+  background: #00bfa5;
+}
+
+.center {
+  display:flex;
+  justify-content: center;
+  position:relative;
+  width:500px;
+  height:auto;
+}
+
+#tsparticles {
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  z-index:-1;
+}
+
+.mar{
+ margin: auto;
+ width: 50%;
+}
+
+@media only screen and (max-width: 500px) {
+  .mar{
+    margin: auto;
+    width: 90%;
+   }
+   .center {
+    display:flex;
+    justify-content: center;
+    position:relative;
+    width:360px;
+    height:auto;
+  }
+}
+
+.bgRank {
+  width:auto;
+  margin: auto;
+  position:relative;
+  padding: 1em;
+  text-align: center;
+}
+
+
+.br-pill {
+  height:50px;
+}
+
+.bgText {
+  background-color: rgba(255, 255, 255, 0.8);
+  z-index:-1;
+}
+/* .bgRank::before {
+  content: '';
+  position:absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-filter: blur(50px);
+  background-color:#3333;
+  z-index: -1;
+} */

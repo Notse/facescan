@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FaceScan/static/css/main.b9b24cd0.chunk.css",
+    "main.js": "/FaceScan/static/js/main.39ba1acb.chunk.js",
+    "main.js.map": "/FaceScan/static/js/main.39ba1acb.chunk.js.map",
+    "runtime-main.js": "/FaceScan/static/js/runtime-main.8776c9e3.js",
+    "runtime-main.js.map": "/FaceScan/static/js/runtime-main.8776c9e3.js.map",
+    "static/css/2.fe359a49.chunk.css": "/FaceScan/static/css/2.fe359a49.chunk.css",
+    "static/js/2.2bb36c0a.chunk.js": "/FaceScan/static/js/2.2bb36c0a.chunk.js",
+    "static/js/2.2bb36c0a.chunk.js.map": "/FaceScan/static/js/2.2bb36c0a.chunk.js.map",
+    "static/js/3.f3eadf3c.chunk.js": "/FaceScan/static/js/3.f3eadf3c.chunk.js",
+    "static/js/3.f3eadf3c.chunk.js.map": "/FaceScan/static/js/3.f3eadf3c.chunk.js.map",
+    "index.html": "/FaceScan/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/FaceScan/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.b9b24cd0.chunk.css.map": "/FaceScan/static/css/main.b9b24cd0.chunk.css.map",
+    "static/js/2.2bb36c0a.chunk.js.LICENSE.txt": "/FaceScan/static/js/2.2bb36c0a.chunk.js.LICENSE.txt",
+    "static/media/logo.79d8421c.svg": "/FaceScan/static/media/logo.79d8421c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8776c9e3.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.2bb36c0a.chunk.js",
+    "static/css/main.b9b24cd0.chunk.css",
+    "static/js/main.39ba1acb.chunk.js"
+  ]
+}

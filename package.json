@@ -1,6 +1,6 @@
 {
   "name": "face_recognition_app",
-  "homepage": "https://Notse.github.io/FaceScan",
+  "homepage": "https://notse.github.io/facescan",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

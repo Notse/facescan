@@ -8,7 +8,6 @@ import FaceDetect from "./Components/FaceDetect";
 import Particles from "react-particles-js";
 import SignIn from "./Components/SignIn/SignIn";
 import Register from "./Components/Register/Register";
-
 import swal from "sweetalert";
 
 let alert = true;
